@@ -1,2 +1,2 @@
-# datascience
-classes
+# Data Science
+Material from UTFPR specialization in Data Science classes
