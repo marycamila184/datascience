@@ -1,0 +1,14 @@
+Exercício: Levantamento da temperatura diária (por hora) de Curitiba.
+Cada grupo irá colher medidas da temperatura de Curitiba durante a semana, do dia 28/09/2019 a 02/10/2019.
+Elaborar uma tabela em excel contendo o dia/hora (por exemplo 25/09/2019 10:00) e a temperatura medida (em graus Celsius).
+A partir da Planilha mensal de temperatura distribuída na lista de exercício 1, calcule os seguintes parâmetros:
+a) Calcule as Temperaturas horárias que representam os percentis 10,20,30,70,80 e 90%.
+b) Calcule as Temperaturas horárias que representam os percentis mais quentes, ou seja, 99,50%; 99,70%, 99,80% e 99,90%.
+c) Calcule as Temperaturas horárias que representam os extremos mais quentes, ou seja, 99,95%, 99,96%, 99,97%., 99,98% e 99,99%.
+d) Calcule as Temperaturas horárias que representam os extremos mais frios, ou seja, 0,01; 0,02; 0,03; 0.04% e 0,05%.
+e) Calcule a temperatura horária que representa a mediana. 
+f) Calcule a Média de todo o período;
+g) Qual o dia representa a Moda;
+h) Qual o dia tem o Ponto Médio?
+
+Crie uma variável x e atribua o valor -1
